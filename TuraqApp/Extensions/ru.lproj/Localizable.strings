@@ -1,0 +1,161 @@
+"Understand" = "Понятно";
+
+/* Enter Phone */
+
+"Registration" = "Вход";
+"Phone number" = "Номер телефона";
+"Get code" = "Получить код";
+"I accept the Privacy Policy and give my consent to the processing of personal data. " = "Я соглашаюсь с Политикой конфиденциальности и даю свое согласие на обработку персональных данных. ";
+"Privacy Policy" = "Политикой конфиденциальности";
+"processing of personal data" = "Обработку персональных данных";
+"Please enter your valid number" = "Пожалуйста, введите свой действенный номер";
+
+
+/* Enter Code */
+
+"Verification code" = "Код верификации";
+"Please enter the verification code sent to %@" = "Пожалуйста, введите код верификации, отправленный на %@."; // TODO
+"Resend code" = "Не получил код";
+"Send again" = "Отправить снова";
+"Next" = "Далее";
+"Send again in " = "Отправить снова через "; // TODO
+"Invalid code" = "Неверный код";
+
+
+/* Add Car */
+
+"Your car" = "Ваше авто";
+"Enter transport details" = "Введите данные о транспорте";
+"Car number " = "Автомобильный номер ";
+"Car brand" = "Бренд автомобиля";
+"Car model" = "Модель автомобиля";
+"Add" = "Добавить";
+
+"Success" = "Готово!";
+"Auto will be added within a few minutes" = "Авто будет добавлено в течение нескольких минут";
+"An error has occurred" = "Произошла ошибка";
+"Double-check the car data and try again" = "Перепроверьте данные об авто и повторите попытку";
+"Go back to the main page" = "Вернуться на главную";
+"Try again" = "Попробовать снова";
+
+
+/* Add Card */
+
+"Your card" = "Ваша карта";
+"Enter your bank card details" = "Введите данные о банковской карте";
+"Card number " = "Номер карты ";
+"Expiration date " = "Срок действия ";
+"The card will be added within a few minutes" = "Карта будет добавлена в течение нескольких минут";
+"Double-check the card details and try again" = "Перепроверьте данные карты и повторите попытку";
+
+
+/* Menu */
+
+"Menu" = "Меню";
+"Profile" = "Профиль";
+"My Cars" = "Мои Авто";
+"My Cards" = "Мои Карты";
+"Parking History" = "История парковок";
+"Help" = "Помощь";
+
+
+/* Parking */
+
+"Parking Information" = "Данные о парковке";
+"Address" = "Адрес";
+"Free Zones" = "Свободных зон";
+"Park" = "Припарковаться";
+"Book" = "Бронировать";
+
+
+/* Parking Confirm */
+
+"Confirm the data" = "Подтвердите данные";
+"Time" = "Время";
+"From" = "С";
+"To" = "По";
+"Price" = "Cтоимость";
+"The payment was successful!" = "Оплата прошла успешно!";
+
+"Alas, there are no lots left" = "Увы, мест не осталось";
+"There are no empty lots left in this zone. See the parking lots nearby" = "В данной зоне не осталось свободных мест. Посмотрите парковки рядом";
+"OK" = "Хорошо";
+
+
+/* Booking */
+
+"Attention" = "Внимание";
+"Select booking type" = "Выберите тип бронирования";
+"minutes" = "минут";
+"hour" = "час";
+"Booking cost - @₸" = "Cтоимость бронирования - @₸"; // TODO
+"Confirm" = "Подтвердить";
+
+
+/* Parking State */
+
+"Your booking expires in" = "Ваша бронь истекает через";
+"Your parking lot is waiting for you!" = "Ваше парковочное место ждет вас!";
+"Cancel booking" = "Отменить бронь";
+"Hide parking status" = "Скрыть статус парковки";
+
+"Canceling a booking, will lose your parking zone" = "При отмене бронирования вы теряете свою парковочную зону";
+"Continue" = "Продолжить";
+"Cancel" = "Отменить";
+
+"Parking ends in" = "До конца парковки осталось";
+"Leave" = "Выехать";
+"Parking time exceeded by" = "Время парковки превышено на";
+
+"Are you sure you want to leave?" = "Вы уверены, что хотите выехать?";
+
+/* Parking History */
+
+"Parking History" = "История парковки";
+"No history" = "Нет истории";
+"You haven't done any parking yet" = "Вы пока не совершили ни одну парковку";
+
+
+/* Parking History Details */
+
+"Start time" = "Старт парковки";
+"Time in" = "Время парковки";
+"Transport" = "Транспорт";
+"Payment method" = "Способ оплаты";
+"View fiscal receipt" = "Посмотреть фискальный чек";
+"Support Chat" = "Чат поддержки";
+"Late leave" = "Поздний выезд";
+"Billing by tariff" = "Счет по тарифу";
+"Total" = "Итого";
+
+
+/* Profile */
+
+"Your phone number" = "Ваш номер";
+"Settings" = "Настройки";
+"Change language" = "Сменить язык";
+"Access to notifications" = "Доступ на уведомления";
+"Access to geolocation" = "Доступ к геолокации";
+"Delete account" = "Удалить аккаунт";
+"Log out" = "Выйти из аккаунта";
+
+
+/* My Cars */
+
+"My Cars" = "Мои Авто";
+"Add car" = "Добавить авто";
+
+
+/* My Cards */
+
+"My Cards" = "Мои Карты";
+"Add card" = "Добавить карту";
+
+
+/* Help */
+
+"Application guide" = "Руководство пользователя";
+"Connect with us" = "Связаться с нами";
+"Support Chat" = "Чат поддержки";
+"Privacy policy" = "Политика конфиденциальности";
+"User agreement" = "Лицензионное соглашение";

@@ -1,0 +1,162 @@
+"Understand" = "Понятно";
+
+/* Enter Phone */
+
+"Registration" = "Кіру";
+"Phone number" = "Телефон нөмірі";
+"Get code" = "Құпия сөзді алу";
+"I accept the Privacy Policy and give my consent to the processing of personal data. " = "Мен Құпиялылық саясатымен келісемін және жеке деректерді өңдеуге келісім беремін. ";
+"Privacy Policy" = "Құпиялылық саясатымен";
+"processing of personal data" = "жеке деректерді өңдеуге";
+"Please enter your valid number" = "Жарамды нөміріңізді енгізіңіз"; // TODO: NOT CORRECT
+
+
+/* Enter Code */
+
+"Verification code" = "Тексеру коды"; // TODO: NOT CORRECT
+"Please enter the verification code sent to %@" = "%@ нөміріне жіберілген растау кодын енгізіңіз."; // TODO
+"Resend code" = "Код келмеді";
+"Send again" = "Қайтадан жіберу";
+"Next" = "Әрі қарай";
+"Send again in " = "Отправить снова через "; // TODO
+"Invalid code" = "Қате код";
+
+
+/* Add Car */
+
+"Your car" = "Сіздің көлігіңіз";
+"Enter transport details" = "Көлік мәліметтерін енгізіңіз";
+"Car number " = "Автокөлік нөмірі ";
+"Car brand" = "Автокөлік бренді";
+"Car model" = "Автокөлік моделі";
+"Add" = "Қосу";
+
+"Success" = "Дайын!";
+"Auto will be added within a few minutes" = "Авто бірнеше минутта қосылады";
+"An error has occurred" = "Қате пайда болды";
+"Double-check the car data and try again" = "Авто мәліметтерін тексеріп, қайтадан көріңіз";
+"Go back to the main page" = "Басты бетке";
+"Try again" = "Қкайтадай көру";
+
+
+/* Add Card */
+
+"Your card" = "Сіздің картаңыз";
+"Enter your bank card details" = "Банк картаңыздың мәліметтерін енгізіңіз";
+"Card number " = "Карта нөмірі ";
+"Expiration date " = "Мерзімі ";
+"The card will be added within a few minutes" = "Карта бірнеше минутта қосылады";
+"Double-check the card details and try again" = "Карта мәліметтерін тексеріп, қайтадан көріңіз";
+
+
+/* Menu */
+
+"Menu" = "Меню";
+"Profile" = "Профиль";
+"My Cars" = "Менің Автоларым";
+"My Cards" = "Менің Карталарым";
+"Parking History" = "Парковка тарихы";
+"Help" = "Көмек";
+
+
+/* Parking */
+
+"Parking Information" = "Парковка мәліметі";
+"Address" = "Мекенжай";
+"Free Zones" = "Бос орын";
+"Park" = "Тұраққа қою";
+"Book" = "Брондау";
+
+
+/* Parking Confirm */
+
+"Confirm the data" = "Мәліметтерді растаңыз";
+"Time" = "Уақыт";
+"From" = "Бастап";
+"To" = "Дейін";
+"Price" = "Бағасы";
+"The payment was successful!" = "Төлем сәтті өтті!";
+
+"Alas, there are no lots left" = "Сірә, орын қалмады";
+"There are no empty lots left in this zone. See the parking lots nearby" = "Бұл аймақта бос орын қалмады. Жақын жерден қарап көріңіз";
+"OK" = "Хорошо";
+
+
+/* Booking */
+
+"Attention" = "Назар аударңыз";
+"Select booking type" = "Бронь түрін таңдаңыз";
+"minutes" = "минут";
+"hour" = "сағат";
+"Booking cost - @₸" = "Брондау бағасы - @₸"; // TODO
+"Confirm" = "Растау";
+
+
+/* Parking State */
+
+"Your booking expires in" = "Броньнің біту кақыты";
+"Your parking lot is waiting for you!" = "Сіздің тұрақ орныңыз сізді күтіп жатыр!";
+"Cancel booking" = "Броньнан бас тарту";
+"Hide parking status" = "Тұрақ күйін жасыру";
+
+"Canceling a booking, will lose your parking zone" = "Броньнан бас тартқан кезде сіз тұрақ аймағыңызды жоғалтасыз";
+"Continue" = "Жалғастыру";
+"Cancel" = "Бас тарту";
+
+"Parking ends in" = "Тұрақ соныңа дейін";
+"Leave" = "Шығу";
+"Parking time exceeded by" = "Тұрақ уақыты асып кетті";
+
+"Are you sure you want to leave?" = "Сіз шынымен шыққыңыз келе ма?";
+
+/* Parking History */
+
+"Parking History" = "Тұрақ тарихы";
+"No history" = "Тарих жоқ";
+"You haven't done any parking yet" = "Сіз әлі тұрақтарда болмадыңыз";
+
+
+/* Parking History Details */
+
+"Start time" = "Тұрақтың басы";
+"Time in" = "Тұрақтагы уақыт";
+"Transport" = "Транспорт";
+"Payment method" = "Төлем тәсілі";
+"View fiscal receipt" = "Фискальді чекті көру";
+"Support Chat" = "Қолдау чаты";
+"Late leave" = "Кеш шығу";
+"Billing by tariff" = "Тариф бойынша";
+"Total" = "Қорытынды";
+
+
+/* Profile */
+
+"Your phone number" = "Сіздің нөмір";
+"Settings" = "Баптаулар";
+"Change language" = "Тіл ауыстыру";
+"Access to notifications" = "Хабарламаларға рұқсат";
+"Access to geolocation" = "Геолокацияға рұқсат";
+"Delete account" = "Аккаунтты жою";
+"Log out" = "Аккаунттан шығу";
+
+
+/* My Cars */
+
+"My Cars" = "Менің Автом";
+"Add car" = "Көлік қосу";
+
+
+/* My Cards */
+
+"My Cards" = "Менің Карталарым";
+"Add card" = "Карта қосу";
+
+
+/* Help */
+
+"Application guide" = "Пайдаланушы нұсқаулығы";
+"Connect with us" = "Бізбен байланыс";
+"Support Chat" = "Қолдау чат";
+"Privacy policy" = "Құпиялылық саясат";
+"User agreement" = "Лицензиялық келісім";
+

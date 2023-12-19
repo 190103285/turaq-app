@@ -1,0 +1,6 @@
+framework module Pods_TuraqAppTests {
+  umbrella header "Pods-TuraqAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
